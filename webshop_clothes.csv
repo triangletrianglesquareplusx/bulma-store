@@ -1,0 +1,43 @@
+id,product_name,size,color,quantity,price_usd,subtype,manufacturer
+1,Jordan 1 Mid,45,tripple-white,23,139.99,sneaker,Nike
+2,Dunk Low Retro White Black Panda,40,black-white,5,219.99,sneaker,Nike
+3,Dunk Low Retro Black Hyper Cobalt,40,black-blue-white,14,205.49,sneaker,Nike
+4,Yeezy Slide,38,beige,108,199.99,slipper,Adidas
+5,Supreme Manhattan Tee,XL,black,43,99.99,t-shirt,Supreme
+6,Supreme Manhattan Tee,XXL,black,30,99.99,t-shirt,Supreme
+7,Looney Tunes T-Shirt,S,white,12,35.00,t-shirt,Reebok
+8,Graphic Series T-Shirt,M,black,28,30.00,t-shirt,Reebok
+9,Unisex Tight Tension French Terry Zip-Up Hoody,L,beige,10,39.30,hoodie,Muji
+10,Puma Classics ribbed cross over top,S,grey,6,55.30,top,Puma
+11,Puma Train Blue Spuce shorts,L,blue,6,34.55,shorts,Puma
+12,ASOS 4505 Curve ski mid layer over the head fleece,48,black,11,37.99,hoodie,ASOS
+13,Palm Angels Bear Print Sprayed Logo Hoodie,M,navy-blue,7,385.00,hoodie,Palm Angels
+14,Palm Angels Classic Track Pants,M,black,4,344.00,bottoms,Palm Angels
+15,Adidas Ultra Boost 4.0 DNA,42,white,15,127.00,sneaker,Adidas
+16,Palace Valley of the Shadows T-shirt,L,black,3,120.00,t-shirt,Palace
+17,Palace Saves Shorts,L,red,3,151.00,shorts,Palace
+18,Kith x Looney Tunes KithJam Vintage Tee,XL,black,1,451.00,t-shirt,Kith
+19,Puma LaMelo Ball MB.01,40,red-green,25,135.00,sneaker,Puma
+20,Puma Mirage Mox EB,40.5,white-desert sage,2,100.00,sneaker,Puma
+21,Adidas Samba,44,cream-green-gum,8,160.00,sneaker,Adidas
+22,Kid Cudi CPFM For MOTM III Heaven on Earth T-shirt,XL,white,2,50.00,t-shirt,Kid Cudi
+23,Kid Cudi Flower T-shirt,L,black,2,75.00,t-shirt,Kid Cudi
+24,Travis Scott The Scotts Cj Gaming I L/S Jersey,L,black-multi,6,95.00,jersey,Travis Scott
+25,Jordan 1 Retro High Shadow 2.0,44,black-white-grey,7,227.00,sneaker,Nike
+26,Adidas NMD R1 Primeblue ,41,white,13,108.00,sneaker,Adidas
+27,Jordan x Maison Chateau Rouge,L,black,3,70.00,t-shirt,Nike
+28,Anti Social Social Club Kkoch Tee ,M,black,303,73.00,t-shirt,ASSC
+29,Supreme Arc Water ,L,red,15,157.00,shorts,Supreme
+30,Sp5der P*NK Hoodie,L,pink,56,231.00,hoodie,Sp5der
+31,Converse Chuck Taylor All-Star 70 Hi,42,black,33,133.00,sneaker,Converse
+32,Crocs Classic Clog,39,red,44,105.00,sneaker,Crocs
+33,Comme des Garcons PLAY Pastelle Red Emblem,M,blue,12,85.00,t-shirt,Comme des Garcons
+34,Stussy x CPFM International T-shirt,M,white,1,95.00,t-shirt,Stussy
+35,Stussy Fuzzy Dice Tee,XXL,black,23,70.00,t-shirt,Stussy
+36,Chrome Hearts Multi Color Cross Cemetery T-shirt,S,black,23,490.00,t-shirt,Chrome Hearts
+37,Fear of God Essentials Pull-Over Hoodie,L,cream,15,100.00,hoodie,Fear Of God
+38,Fear of God Essentials Core Collection Pullover Hoodie,М,cream,20,99.00,hoodie,Fear Of God
+39,Fear of God Essentials T-Shirt,M,cream,50,59.99,t-shirt,Fear Of God
+40,Off-White x Jordan T-Shirt,L,white,23,157.42,t-shirt,Off-White
+41,Off-White x Jordan Hoodie,XL,white,34,370.99,hoodie,Off-White
+42,Off-White Arrow Socks,42,white,67,61.49,socks,Off-White
